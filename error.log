@@ -1,0 +1,6 @@
+[AWT-EventQueue-0] INFO uk.co.caprica.vlcj.Info - vlcj: 3.8.0
+[AWT-EventQueue-0] INFO uk.co.caprica.vlcj.Info - java: 1.8.0_131 Oracle Corporation
+[AWT-EventQueue-0] INFO uk.co.caprica.vlcj.Info - java home: d:\java\jre
+[AWT-EventQueue-0] INFO uk.co.caprica.vlcj.Info - os: Windows 10 10.0 amd64
+[AWT-EventQueue-0] INFO uk.co.caprica.vlcj.binding.LibVlcFactory - vlc: 2.2.6 Umbrella, changeset 2.2.6-0-g1aae789
+[AWT-EventQueue-0] INFO uk.co.caprica.vlcj.binding.LibVlcFactory - libvlc: D:\eclipse\union of workspace\workspace one\video_player_first_class_designing\.\lib\VLC\libvlc.dll
